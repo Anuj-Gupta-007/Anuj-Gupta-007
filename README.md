@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Anuj Gupta</h1>
-<h3 align="center"> SDET </h3>
+<h3 align="center"> 💻 Software Development Engineer in Test </h3>
 
 
 
